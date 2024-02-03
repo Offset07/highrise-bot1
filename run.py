@@ -3,7 +3,6 @@ from threading import Thread
 from highrise.__main__ import *
 import time
 
-
 class WebServer():
 
   def __init__(self):
